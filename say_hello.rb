@@ -4,3 +4,5 @@ def say_hello (name = "Ruby Programmer!")
 end
 
 name = gets.chop
+
+puts say_hello
