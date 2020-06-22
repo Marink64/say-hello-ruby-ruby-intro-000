@@ -2,7 +2,7 @@
 say_hello = "Ruby Programmer!"
 
 def say_hello ("Kent Beck!")
-  puts say_hello
+  puts "Hello "
 end
 
 puts say_hello
